@@ -14,7 +14,7 @@ const Sidebar = () => {
       <hr />
       <ProfileItem
         isCollapsed={isCollapsed}
-        name="Mohsin Belgaum"
+        name="Bharat"
         profileImage="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
       />
       <hr />
